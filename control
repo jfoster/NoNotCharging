@@ -1,0 +1,9 @@
+Package: com.rave.nonotcharging64
+Name: NoNotCharging64
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: No "Not Charging" with 64 bit support!
+Maintainer: Rave <ravendaw@outlook.com>
+Author: Rave <ravendaw@outlook.com>
+Section: Tweaks
